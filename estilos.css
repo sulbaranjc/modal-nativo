@@ -1,0 +1,11 @@
+  button {
+    display: block;
+    width: max-content;
+    margin: 3rem auto;
+    padding: 1rem 3rem;
+    background-color: seagreen;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
